@@ -1,0 +1,11 @@
+[lang]
+name = "繁體中文"
+
+[inanima]
+app.title = "Inanima"
+settings.settings = "設定"
+settings.theme.label = "主題模式："
+settings.theme.system = "跟隨系統"
+settings.theme.light = "淺色"
+settings.theme.dark = "深色"
+settings.language.label = "語言："

@@ -1,0 +1,11 @@
+[lang]
+name = "Français"
+
+[inanima]
+app.title = "Inanima"
+settings.settings = "Paramètres"
+settings.theme.label = "Mode de thème :"
+settings.theme.system = "Système"
+settings.theme.light = "Clair"
+settings.theme.dark = "Sombre"
+settings.language.label = "Langue :"

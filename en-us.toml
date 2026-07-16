@@ -1,0 +1,11 @@
+[lang]
+name = "English (United States)"
+
+[inanima]
+app.title = "Inanima"
+settings.settings = "Settings"
+settings.theme.label = "Theme mode:"
+settings.theme.system = "System"
+settings.theme.light = "Light"
+settings.theme.dark = "Dark"
+settings.language.label = "Language:"
