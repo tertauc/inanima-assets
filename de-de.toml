@@ -1,6 +1,3 @@
-[lang]
-name = "Deutsch"
-
 [inanima]
 app.title = "Inanima"
 settings.settings = "Einstellungen"
@@ -23,3 +20,7 @@ download.cancel = "Abbrechen"
 download.success = "Download abgeschlossen"
 download.failed = "Download fehlgeschlagen"
 download.close = "Schließen"
+download.confirm_title = "Download bestätigen"
+download.confirm_message = "Sprachdatei nicht gefunden. Herunterladen?"
+download.confirm_download = "Herunterladen"
+download.confirm_cancel = "Abbrechen"
