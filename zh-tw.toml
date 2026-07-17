@@ -1,5 +1,4 @@
 [inanima]
-app.title = "Inanima"
 settings.settings = "設定"
 settings.theme.label = "主題模式"
 settings.theme.system = "跟隨系統"
@@ -21,6 +20,6 @@ download.success = "下載完成"
 download.failed = "下載失敗"
 download.close = "關閉"
 download.confirm_title = "確認下載"
-download.confirm_message = "未找到對應語言檔案，是否下載？"
+download.confirm_message = "語言檔案未找到，是否下載？"
 download.confirm_download = "下載"
 download.confirm_cancel = "取消"

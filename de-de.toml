@@ -1,5 +1,4 @@
 [inanima]
-app.title = "Inanima"
 settings.settings = "Einstellungen"
 settings.theme.label = "Designmodus"
 settings.theme.system = "System"
