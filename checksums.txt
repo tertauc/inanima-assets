@@ -1,0 +1,10 @@
+# Inanima checksums - SHA256
+# Generated: 2026-07-17
+# Format: SHA256HASH filepath
+
+0a5be343f46f999cedc4009d057736ebd71e363691c5b3fee1b955c5eb10f6b3 de-de.toml
+e1790a00f875e37afb40d15d176d36d08795abe3276e17348f1b8e0b04a74978 en-us.toml
+80617acd8a3da40a6c8f59b5eb438acd2e5d9c32df0c4103d474cb30bdfd4c28 fr-fr.toml
+e32e4e00e40daccfe1b9f5fd037045778f7f139af33649cec0d38f9253677690 inanima.exe
+06e3a9cae2aeeca786b01c26a987e2e680fbc2277bf0d8f572b6c14609245638 zh-cn.toml
+8dc4a4fa98e403bdaffdc7426684ae3019a14ed55bf421c3fed5d344b967728d zh-tw.toml
